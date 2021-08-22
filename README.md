@@ -1,6 +1,6 @@
 ## Experience
 
-### CPO, Witsawa Corporation
+### Technical Lead, Witsawa Corporation
 [Sep 2017 - Present]
 - Develop Web Frontent with React.js
 - Develop Web API with Loopback (Node.js Framework)
